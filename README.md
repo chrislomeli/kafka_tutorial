@@ -1,9 +1,6 @@
 # Work in progress
 
 
-{% hint style="info" %}
-Code is stored at: [Github](https://github.com/tiny-engines-code/kafka-course-material)
-{% endhint %}
 
 ---
 ### 01-hello-kafka
